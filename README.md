@@ -30,12 +30,16 @@ A polished and customizable cellular automata simulator built with Python 3 and 
 
 # Installation
 
+```bash
 git clone https://github.com/Python-Swift15/Game-of-Life.git
 cd Game-of-Life
+```
 
 # Usage
 
+```bash
 python3 game_of_life.py
+```
 
 # How to Use
 
