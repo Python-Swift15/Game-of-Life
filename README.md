@@ -1,8 +1,8 @@
-Game of Life 🧬✨
+## Game of Life 🧬✨
 
 A polished and customizable cellular automata simulator built with Python 3 and Tkinter. Explore evolving patterns across a grid of cells, experiment with four different rule sets, generate random worlds, and customize the simulation’s appearance and speed. Designed with a clean, relaxing interface for experimenting with how simple rules can create surprisingly complex patterns. 🌌🔬
 
-Features
+# Features
 
 * 🧬 Interactive cellular automata simulation
 * 🎮 Four different rule sets to experiment with
@@ -23,21 +23,21 @@ Features
 * ✨ Smooth and relaxing visual experience
 * 🖥️ Clean Tkinter graphical interface
 
-Requirements
+# Requirements
 
 * Python 3.x
 * Tkinter
 
-Installation
+# Installation
 
 git clone https://github.com/Python-Swift15/Game-of-Life.git
 cd Game-of-Life
 
-Usage
+# Usage
 
 python3 game_of_life.py
 
-How to Use
+# How to Use
 
 1. Launch the program. 🚀
 2. Choose one of the four available rule sets. 🧬
@@ -49,7 +49,7 @@ How to Use
 8. Return to the menu to change the rules or settings. 🏠
 9. Generate a new world and experiment again! 🔄
 
-Simulation Rules 🧬
+# Simulation Rules 🧬
 
 Each cell changes over time depending on the cells surrounding it.
 
@@ -57,7 +57,7 @@ The project includes four different rule sets, allowing the same starting grid t
 
 Experiment with different settings and starting patterns to see what emerges. 🔬✨
 
-Controls
+# Controls
 
 * Spacebar — Start / Pause the simulation
 * Start — Begin or resume
@@ -67,7 +67,7 @@ Controls
 * Menu — Return to simulation settings
 * Grid Click — Add or remove individual cells
 
-Customization 🎨
+# Customization 🎨
 
 The simulator allows you to personalize how your cellular world looks and behaves.
 
@@ -82,7 +82,7 @@ You can adjust:
 
 This makes it possible to create everything from minimal monochrome simulations to colorful evolving worlds.
 
-Technical Details
+# Technical Details
 
 * Built entirely with Python 3
 * Uses Python’s built-in tkinter library for the graphical interface
@@ -95,7 +95,7 @@ Technical Details
 * Supports random pattern generation
 * Separates simulation controls from configuration through a menu system
 
-Future Enhancements
+# Future Enhancements
 
 * 💾 Save and load patterns
 * 📂 Built-in pattern library
@@ -110,6 +110,6 @@ Future Enhancements
 * 💾 Export simulations
 * 📱 Improved touchscreen support
 
-License
+# License
 
 Open source - Feel free to take inspiration!
