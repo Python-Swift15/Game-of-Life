@@ -1,4 +1,4 @@
-### Game of Life 🧬✨
+## Game of Life 🧬✨
 
 A polished and customizable cellular automata simulator built with Python 3 and Tkinter. Explore evolving patterns across a grid of cells, experiment with four different rule sets, generate random worlds, and customize the simulation’s appearance and speed. Designed with a clean, relaxing interface for experimenting with how simple rules can create surprisingly complex patterns. 🌌🔬
 
